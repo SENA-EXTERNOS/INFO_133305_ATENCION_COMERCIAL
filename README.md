@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO_133305_ATENCION_COMERCIAL/](https://sena-externos.github.io/INFO_133305_ATENCION_COMERCIAL/)
 
 #
